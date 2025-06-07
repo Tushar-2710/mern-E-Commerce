@@ -93,10 +93,10 @@ npm start
 ![Admin Dashboard](./screenshots/Admin%20Dashboard.png)
 
 ### ➕ Add Product
-![Add Product](./screenshots/Admin%20Add%20Product.png)
+![Add Product](./screenshots/Admin%20Add%20Product%20page.png)
 
 ### ➕ Add Category
-![Add Category](./screenshots/Admin%20Add%20categories.png)
+![Add Category](./screenshots/Admin%20Add%20categories%20page.png)
 
 ---
 
